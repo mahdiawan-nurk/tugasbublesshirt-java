@@ -24,7 +24,7 @@ public class sorting{
                  //         }  
                           
                  // }  
-         // }  
+         // }  edit langsung disini atau copy paste aja dengan kodingan baru
         
 		for (int z=1; z<(a.length-1); z++)
 	
